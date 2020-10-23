@@ -9,7 +9,7 @@ app.set("port", 4001);
 app.use(express.json());
 
 //Routes
-app.use(routes);
+app.use("/api", routes);
 
 //Init Service
 app.listen(app.get("port"), () =>
