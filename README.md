@@ -1,2 +1,2 @@
 # database-backend-connection
-Created with CodeSandbox
+A practice connecting backend (NODEJS) with a MySQL database
